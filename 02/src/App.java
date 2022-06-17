@@ -1,4 +1,5 @@
 //package app.main;
+//
 import java.lang.Math;
 //java doc java.math
 //import app.main.titik; //domain. uph.edu = edu.uph.[nama aplikasi / nama kategori].[nama app].[module]. = standard company 
